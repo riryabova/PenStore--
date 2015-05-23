@@ -1,0 +1,17 @@
+﻿@using WebApplication1.Models
+@using WebApplication1.HtmlHelpers
+@model PensListViewModel
+
+@{
+    ViewBag.Title = "Товары";
+}
+
+@foreach (var p in @Model.Pens)
+{
+     @Html.Partial("PenSummary", p)
+}
+
+<div class="btn-group pull-right">
+    @Html.PageLinks(Model.PagingInfo, x => Url.Action("List",
+    new { page = x, category = Model.CurrentCategory }))
+</div>

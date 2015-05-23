@@ -1,0 +1,198 @@
+C:\Users\Rita\Desktop\ДипломNew\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Rita\Desktop\ДипломNew\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\Rita\Desktop\ДипломNew\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Rita\Desktop\ДипломNew\WebApplication1\WebApplication1\bin\Antlr3.Runtime.dll
+C:\Users\Rita\Desktop\ДипломNew\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Rita\Desktop\ДипломNew\WebApplication1\WebApplication1\bin\Moq.dll
+C:\Users\Rita\Desktop\ДипломNew\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+C:\Users\Rita\Desktop\ДипломNew\WebApplication1\WebApplication1\bin\Ninject.dll
+C:\Users\Rita\Desktop\ДипломNew\WebApplication1\WebApplication1\bin\Ninject.Web.Common.dll
+C:\Users\Rita\Desktop\ДипломNew\WebApplication1\WebApplication1\bin\Ninject.Web.Mvc.dll
+C:\Users\Rita\Desktop\ДипломNew\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+C:\Users\Rita\Desktop\ДипломNew\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+C:\Users\Rita\Desktop\ДипломNew\WebApplication1\WebApplication1\bin\System.Web.Optimization.dll
+C:\Users\Rita\Desktop\ДипломNew\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+C:\Users\Rita\Desktop\ДипломNew\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Rita\Desktop\ДипломNew\WebApplication1\WebApplication1\bin\System.Web.WebPages.dll
+C:\Users\Rita\Desktop\ДипломNew\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.dll
+C:\Users\Rita\Desktop\ДипломNew\WebApplication1\WebApplication1\bin\WebActivator.dll
+C:\Users\Rita\Desktop\ДипломNew\WebApplication1\WebApplication1\bin\WebGrease.dll
+C:\Users\Rita\Desktop\ДипломNew\WebApplication1\WebApplication1\bin\Moq.xml
+C:\Users\Rita\Desktop\ДипломNew\WebApplication1\WebApplication1\bin\Ninject.pdb
+C:\Users\Rita\Desktop\ДипломNew\WebApplication1\WebApplication1\bin\Ninject.xml
+C:\Users\Rita\Desktop\ДипломNew\WebApplication1\WebApplication1\bin\Ninject.Web.Common.pdb
+C:\Users\Rita\Desktop\ДипломNew\WebApplication1\WebApplication1\bin\Ninject.Web.Common.xml
+C:\Users\Rita\Desktop\ДипломNew\WebApplication1\WebApplication1\bin\Ninject.Web.Mvc.pdb
+C:\Users\Rita\Desktop\ДипломNew\WebApplication1\WebApplication1\bin\Ninject.Web.Mvc.xml
+C:\Users\Rita\Desktop\ДипломNew\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+C:\Users\Rita\Desktop\ДипломNew\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+C:\Users\Rita\Desktop\ДипломNew\WebApplication1\WebApplication1\bin\System.Web.Optimization.xml
+C:\Users\Rita\Desktop\ДипломNew\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+C:\Users\Rita\Desktop\ДипломNew\WebApplication1\WebApplication1\bin\System.Web.WebPages.xml
+C:\Users\Rita\Desktop\ДипломNew\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Rita\Desktop\ДипломNew\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.xml
+C:\Users\Rita\Desktop\ДипломNew\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+C:\Users\Rita\Desktop\ДипломNew\WebApplication1\WebApplication1\bin\Antlr3.Runtime.pdb
+C:\Users\Rita\Desktop\ДипломNew\WebApplication1\WebApplication1\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Rita\Desktop\ДипломNew\WebApplication1\WebApplication1\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Rita\Desktop\ДипломNew\WebApplication1\WebApplication1\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Rita\Desktop\ДипломNew\WebApplication1\WebApplication1\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Rita\Desktop\ДипломNew\WebApplication1\WebApplication1\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Rita\Desktop\ДипломNew\WebApplication1\WebApplication1\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Rita\Desktop\ДипломNew\WebApplication1\WebApplication1\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Rita\Desktop\ДипломNew\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Rita\Desktop\ДипломNew\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Rita\Desktop\ДипломNew\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Rita\Desktop\PenStore\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Rita\Desktop\PenStore\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\Rita\Desktop\PenStore\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Rita\Desktop\PenStore\WebApplication1\WebApplication1\bin\Antlr3.Runtime.dll
+C:\Users\Rita\Desktop\PenStore\WebApplication1\WebApplication1\bin\EntityFramework.dll
+C:\Users\Rita\Desktop\PenStore\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.dll
+C:\Users\Rita\Desktop\PenStore\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Rita\Desktop\PenStore\WebApplication1\WebApplication1\bin\Moq.dll
+C:\Users\Rita\Desktop\PenStore\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+C:\Users\Rita\Desktop\PenStore\WebApplication1\WebApplication1\bin\Ninject.dll
+C:\Users\Rita\Desktop\PenStore\WebApplication1\WebApplication1\bin\Ninject.Web.Common.dll
+C:\Users\Rita\Desktop\PenStore\WebApplication1\WebApplication1\bin\Ninject.Web.Mvc.dll
+C:\Users\Rita\Desktop\PenStore\WebApplication1\WebApplication1\bin\PenStore.Domain.dll
+C:\Users\Rita\Desktop\PenStore\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+C:\Users\Rita\Desktop\PenStore\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+C:\Users\Rita\Desktop\PenStore\WebApplication1\WebApplication1\bin\System.Web.Optimization.dll
+C:\Users\Rita\Desktop\PenStore\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+C:\Users\Rita\Desktop\PenStore\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Rita\Desktop\PenStore\WebApplication1\WebApplication1\bin\System.Web.WebPages.dll
+C:\Users\Rita\Desktop\PenStore\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.dll
+C:\Users\Rita\Desktop\PenStore\WebApplication1\WebApplication1\bin\WebActivator.dll
+C:\Users\Rita\Desktop\PenStore\WebApplication1\WebApplication1\bin\WebGrease.dll
+C:\Users\Rita\Desktop\PenStore\WebApplication1\WebApplication1\bin\PenStore.Domain.pdb
+C:\Users\Rita\Desktop\PenStore\WebApplication1\WebApplication1\bin\EntityFramework.xml
+C:\Users\Rita\Desktop\PenStore\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.xml
+C:\Users\Rita\Desktop\PenStore\WebApplication1\WebApplication1\bin\Moq.xml
+C:\Users\Rita\Desktop\PenStore\WebApplication1\WebApplication1\bin\Ninject.pdb
+C:\Users\Rita\Desktop\PenStore\WebApplication1\WebApplication1\bin\Ninject.xml
+C:\Users\Rita\Desktop\PenStore\WebApplication1\WebApplication1\bin\Ninject.Web.Common.pdb
+C:\Users\Rita\Desktop\PenStore\WebApplication1\WebApplication1\bin\Ninject.Web.Common.xml
+C:\Users\Rita\Desktop\PenStore\WebApplication1\WebApplication1\bin\Ninject.Web.Mvc.pdb
+C:\Users\Rita\Desktop\PenStore\WebApplication1\WebApplication1\bin\Ninject.Web.Mvc.xml
+C:\Users\Rita\Desktop\PenStore\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+C:\Users\Rita\Desktop\PenStore\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+C:\Users\Rita\Desktop\PenStore\WebApplication1\WebApplication1\bin\System.Web.Optimization.xml
+C:\Users\Rita\Desktop\PenStore\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+C:\Users\Rita\Desktop\PenStore\WebApplication1\WebApplication1\bin\System.Web.WebPages.xml
+C:\Users\Rita\Desktop\PenStore\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Rita\Desktop\PenStore\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.xml
+C:\Users\Rita\Desktop\PenStore\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+C:\Users\Rita\Desktop\PenStore\WebApplication1\WebApplication1\bin\Antlr3.Runtime.pdb
+C:\Users\Rita\Desktop\PenStore\WebApplication1\WebApplication1\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Rita\Desktop\PenStore\WebApplication1\WebApplication1\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Rita\Desktop\PenStore\WebApplication1\WebApplication1\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Rita\Desktop\PenStore\WebApplication1\WebApplication1\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Rita\Desktop\PenStore\WebApplication1\WebApplication1\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Rita\Desktop\PenStore\WebApplication1\WebApplication1\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Rita\Desktop\PenStore\WebApplication1\WebApplication1\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Rita\Desktop\PenStore\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Rita\Desktop\PenStore\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Rita\Desktop\PenStore\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Rita\Desktop\PenStore — копия (4)\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Rita\Desktop\PenStore — копия (4)\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\Rita\Desktop\PenStore — копия (4)\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Rita\Desktop\PenStore — копия (4)\WebApplication1\WebApplication1\bin\Antlr3.Runtime.dll
+C:\Users\Rita\Desktop\PenStore — копия (4)\WebApplication1\WebApplication1\bin\EntityFramework.dll
+C:\Users\Rita\Desktop\PenStore — копия (4)\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.dll
+C:\Users\Rita\Desktop\PenStore — копия (4)\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Rita\Desktop\PenStore — копия (4)\WebApplication1\WebApplication1\bin\Moq.dll
+C:\Users\Rita\Desktop\PenStore — копия (4)\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+C:\Users\Rita\Desktop\PenStore — копия (4)\WebApplication1\WebApplication1\bin\Ninject.dll
+C:\Users\Rita\Desktop\PenStore — копия (4)\WebApplication1\WebApplication1\bin\Ninject.Web.Common.dll
+C:\Users\Rita\Desktop\PenStore — копия (4)\WebApplication1\WebApplication1\bin\Ninject.Web.Mvc.dll
+C:\Users\Rita\Desktop\PenStore — копия (4)\WebApplication1\WebApplication1\bin\PenStore.Domain.dll
+C:\Users\Rita\Desktop\PenStore — копия (4)\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+C:\Users\Rita\Desktop\PenStore — копия (4)\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+C:\Users\Rita\Desktop\PenStore — копия (4)\WebApplication1\WebApplication1\bin\System.Web.Optimization.dll
+C:\Users\Rita\Desktop\PenStore — копия (4)\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+C:\Users\Rita\Desktop\PenStore — копия (4)\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Rita\Desktop\PenStore — копия (4)\WebApplication1\WebApplication1\bin\System.Web.WebPages.dll
+C:\Users\Rita\Desktop\PenStore — копия (4)\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.dll
+C:\Users\Rita\Desktop\PenStore — копия (4)\WebApplication1\WebApplication1\bin\WebActivator.dll
+C:\Users\Rita\Desktop\PenStore — копия (4)\WebApplication1\WebApplication1\bin\WebGrease.dll
+C:\Users\Rita\Desktop\PenStore — копия (4)\WebApplication1\WebApplication1\bin\PenStore.Domain.pdb
+C:\Users\Rita\Desktop\PenStore — копия (4)\WebApplication1\WebApplication1\bin\EntityFramework.xml
+C:\Users\Rita\Desktop\PenStore — копия (4)\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.xml
+C:\Users\Rita\Desktop\PenStore — копия (4)\WebApplication1\WebApplication1\bin\Moq.xml
+C:\Users\Rita\Desktop\PenStore — копия (4)\WebApplication1\WebApplication1\bin\Ninject.pdb
+C:\Users\Rita\Desktop\PenStore — копия (4)\WebApplication1\WebApplication1\bin\Ninject.xml
+C:\Users\Rita\Desktop\PenStore — копия (4)\WebApplication1\WebApplication1\bin\Ninject.Web.Common.pdb
+C:\Users\Rita\Desktop\PenStore — копия (4)\WebApplication1\WebApplication1\bin\Ninject.Web.Common.xml
+C:\Users\Rita\Desktop\PenStore — копия (4)\WebApplication1\WebApplication1\bin\Ninject.Web.Mvc.pdb
+C:\Users\Rita\Desktop\PenStore — копия (4)\WebApplication1\WebApplication1\bin\Ninject.Web.Mvc.xml
+C:\Users\Rita\Desktop\PenStore — копия (4)\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+C:\Users\Rita\Desktop\PenStore — копия (4)\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+C:\Users\Rita\Desktop\PenStore — копия (4)\WebApplication1\WebApplication1\bin\System.Web.Optimization.xml
+C:\Users\Rita\Desktop\PenStore — копия (4)\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+C:\Users\Rita\Desktop\PenStore — копия (4)\WebApplication1\WebApplication1\bin\System.Web.WebPages.xml
+C:\Users\Rita\Desktop\PenStore — копия (4)\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Rita\Desktop\PenStore — копия (4)\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.xml
+C:\Users\Rita\Desktop\PenStore — копия (4)\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+C:\Users\Rita\Desktop\PenStore — копия (4)\WebApplication1\WebApplication1\bin\Antlr3.Runtime.pdb
+C:\Users\Rita\Desktop\PenStore — копия (4)\WebApplication1\WebApplication1\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Rita\Desktop\PenStore — копия (4)\WebApplication1\WebApplication1\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Rita\Desktop\PenStore — копия (4)\WebApplication1\WebApplication1\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Rita\Desktop\PenStore — копия (4)\WebApplication1\WebApplication1\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Rita\Desktop\PenStore — копия (4)\WebApplication1\WebApplication1\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Rita\Desktop\PenStore — копия (4)\WebApplication1\WebApplication1\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Rita\Desktop\PenStore — копия (4)\WebApplication1\WebApplication1\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Rita\Desktop\PenStore — копия (4)\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Rita\Desktop\PenStore — копия (4)\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Rita\Desktop\PenStore — копия (4)\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Rita\Desktop\PenStore — ДИПЛОМ\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Rita\Desktop\PenStore — ДИПЛОМ\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\Rita\Desktop\PenStore — ДИПЛОМ\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Rita\Desktop\PenStore — ДИПЛОМ\WebApplication1\WebApplication1\bin\Antlr3.Runtime.dll
+C:\Users\Rita\Desktop\PenStore — ДИПЛОМ\WebApplication1\WebApplication1\bin\EntityFramework.dll
+C:\Users\Rita\Desktop\PenStore — ДИПЛОМ\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.dll
+C:\Users\Rita\Desktop\PenStore — ДИПЛОМ\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Rita\Desktop\PenStore — ДИПЛОМ\WebApplication1\WebApplication1\bin\Moq.dll
+C:\Users\Rita\Desktop\PenStore — ДИПЛОМ\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+C:\Users\Rita\Desktop\PenStore — ДИПЛОМ\WebApplication1\WebApplication1\bin\Ninject.dll
+C:\Users\Rita\Desktop\PenStore — ДИПЛОМ\WebApplication1\WebApplication1\bin\Ninject.Web.Common.dll
+C:\Users\Rita\Desktop\PenStore — ДИПЛОМ\WebApplication1\WebApplication1\bin\Ninject.Web.Mvc.dll
+C:\Users\Rita\Desktop\PenStore — ДИПЛОМ\WebApplication1\WebApplication1\bin\PenStore.Domain.dll
+C:\Users\Rita\Desktop\PenStore — ДИПЛОМ\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+C:\Users\Rita\Desktop\PenStore — ДИПЛОМ\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+C:\Users\Rita\Desktop\PenStore — ДИПЛОМ\WebApplication1\WebApplication1\bin\System.Web.Optimization.dll
+C:\Users\Rita\Desktop\PenStore — ДИПЛОМ\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+C:\Users\Rita\Desktop\PenStore — ДИПЛОМ\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Rita\Desktop\PenStore — ДИПЛОМ\WebApplication1\WebApplication1\bin\System.Web.WebPages.dll
+C:\Users\Rita\Desktop\PenStore — ДИПЛОМ\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.dll
+C:\Users\Rita\Desktop\PenStore — ДИПЛОМ\WebApplication1\WebApplication1\bin\WebActivator.dll
+C:\Users\Rita\Desktop\PenStore — ДИПЛОМ\WebApplication1\WebApplication1\bin\WebGrease.dll
+C:\Users\Rita\Desktop\PenStore — ДИПЛОМ\WebApplication1\WebApplication1\bin\PenStore.Domain.pdb
+C:\Users\Rita\Desktop\PenStore — ДИПЛОМ\WebApplication1\WebApplication1\bin\EntityFramework.xml
+C:\Users\Rita\Desktop\PenStore — ДИПЛОМ\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.xml
+C:\Users\Rita\Desktop\PenStore — ДИПЛОМ\WebApplication1\WebApplication1\bin\Moq.xml
+C:\Users\Rita\Desktop\PenStore — ДИПЛОМ\WebApplication1\WebApplication1\bin\Ninject.pdb
+C:\Users\Rita\Desktop\PenStore — ДИПЛОМ\WebApplication1\WebApplication1\bin\Ninject.xml
+C:\Users\Rita\Desktop\PenStore — ДИПЛОМ\WebApplication1\WebApplication1\bin\Ninject.Web.Common.pdb
+C:\Users\Rita\Desktop\PenStore — ДИПЛОМ\WebApplication1\WebApplication1\bin\Ninject.Web.Common.xml
+C:\Users\Rita\Desktop\PenStore — ДИПЛОМ\WebApplication1\WebApplication1\bin\Ninject.Web.Mvc.pdb
+C:\Users\Rita\Desktop\PenStore — ДИПЛОМ\WebApplication1\WebApplication1\bin\Ninject.Web.Mvc.xml
+C:\Users\Rita\Desktop\PenStore — ДИПЛОМ\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+C:\Users\Rita\Desktop\PenStore — ДИПЛОМ\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+C:\Users\Rita\Desktop\PenStore — ДИПЛОМ\WebApplication1\WebApplication1\bin\System.Web.Optimization.xml
+C:\Users\Rita\Desktop\PenStore — ДИПЛОМ\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+C:\Users\Rita\Desktop\PenStore — ДИПЛОМ\WebApplication1\WebApplication1\bin\System.Web.WebPages.xml
+C:\Users\Rita\Desktop\PenStore — ДИПЛОМ\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Rita\Desktop\PenStore — ДИПЛОМ\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.xml
+C:\Users\Rita\Desktop\PenStore — ДИПЛОМ\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+C:\Users\Rita\Desktop\PenStore — ДИПЛОМ\WebApplication1\WebApplication1\bin\Antlr3.Runtime.pdb
+C:\Users\Rita\Desktop\PenStore — ДИПЛОМ\WebApplication1\WebApplication1\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Rita\Desktop\PenStore — ДИПЛОМ\WebApplication1\WebApplication1\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Rita\Desktop\PenStore — ДИПЛОМ\WebApplication1\WebApplication1\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Rita\Desktop\PenStore — ДИПЛОМ\WebApplication1\WebApplication1\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Rita\Desktop\PenStore — ДИПЛОМ\WebApplication1\WebApplication1\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Rita\Desktop\PenStore — ДИПЛОМ\WebApplication1\WebApplication1\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Rita\Desktop\PenStore — ДИПЛОМ\WebApplication1\WebApplication1\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Rita\Desktop\PenStore — ДИПЛОМ\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Rita\Desktop\PenStore — ДИПЛОМ\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Rita\Desktop\PenStore — ДИПЛОМ\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
